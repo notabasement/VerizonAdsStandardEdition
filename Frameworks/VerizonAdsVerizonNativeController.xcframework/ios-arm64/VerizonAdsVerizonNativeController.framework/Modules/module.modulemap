@@ -1,0 +1,6 @@
+framework module VerizonAdsVerizonNativeController {
+  umbrella header "VerizonAdsVerizonNativeController.h"
+
+  export *
+  module * { export * }
+}

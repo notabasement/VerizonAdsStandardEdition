@@ -1,0 +1,6 @@
+framework module VerizonAdsWebController {
+  umbrella header "VerizonAdsWebController.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+framework module VerizonAdsCore {
+  umbrella header "VerizonAdsCore.h"
+  export *
+  module * { export * }
+  
+  explicit module Private {
+      header "VASAds+Private.h"
+      header "VASEnvironmentInfo+Private.h"
+      header "VASScheduler.h"
+  }
+}

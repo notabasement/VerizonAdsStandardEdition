@@ -1,0 +1,6 @@
+framework module VerizonAdsOMSDK {
+  umbrella header "VerizonAdsOMSDK.h"
+
+  export *
+  module * { export * }
+}

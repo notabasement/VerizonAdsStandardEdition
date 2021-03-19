@@ -1,0 +1,6 @@
+framework module VerizonAdsInterstitialPlacement {
+  umbrella header "VerizonAdsInterstitialPlacement.h"
+
+  export *
+  module * { export * }
+}

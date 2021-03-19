@@ -1,0 +1,6 @@
+framework module VerizonAdsVASTController {
+  umbrella header "VerizonAdsVASTController.h"
+
+  export *
+  module * { export * }
+}

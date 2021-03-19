@@ -1,0 +1,6 @@
+framework module VerizonAdsSupport {
+  umbrella header "VerizonAdsSupport.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module VerizonAdsURIExperience {
+  umbrella header "VerizonAdsURIExperience.h"
+
+  export *
+  module * { export * }
+}

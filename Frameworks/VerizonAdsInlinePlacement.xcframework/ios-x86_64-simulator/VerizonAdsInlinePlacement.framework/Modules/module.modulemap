@@ -1,0 +1,6 @@
+framework module VerizonAdsInlinePlacement {
+  umbrella header "VerizonAdsInlinePlacement.h"
+
+  export *
+  module * { export * }
+}

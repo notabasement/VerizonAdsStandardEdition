@@ -1,0 +1,6 @@
+framework module VerizonAdsNativeVerizonNativeAdapter {
+  umbrella header "VerizonAdsNativeVerizonNativeAdapter.h"
+
+  export *
+  module * { export * }
+}

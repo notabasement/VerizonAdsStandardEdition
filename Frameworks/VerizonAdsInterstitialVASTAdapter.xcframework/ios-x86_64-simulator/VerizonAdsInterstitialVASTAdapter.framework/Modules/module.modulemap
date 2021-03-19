@@ -1,0 +1,6 @@
+framework module VerizonAdsInterstitialVASTAdapter {
+  umbrella header "VerizonAdsInterstitialVASTAdapter.h"
+
+  export *
+  module * { export * }
+}

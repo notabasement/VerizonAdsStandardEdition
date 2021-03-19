@@ -1,0 +1,6 @@
+framework module VerizonAdsVideoPlayer {
+  umbrella header "VerizonAdsVideoPlayer.h"
+
+  export *
+  module * { export * }
+}

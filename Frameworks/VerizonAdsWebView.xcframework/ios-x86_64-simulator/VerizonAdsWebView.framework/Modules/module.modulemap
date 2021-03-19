@@ -1,0 +1,9 @@
+framework module VerizonAdsWebView {
+  umbrella header "VerizonAdsWebView.h"
+  export *
+  module * { export * }
+  
+  explicit module Private {
+    header "VASWebView+Private.h"
+  }
+}
